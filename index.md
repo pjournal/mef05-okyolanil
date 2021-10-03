@@ -1,5 +1,3 @@
-## Anıl OKYOL
-
 ### Progress Journal
 
 ###  Week 1
