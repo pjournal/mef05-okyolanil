@@ -7,3 +7,8 @@
 ###  Week 3
 
 [Assigment 3 : Izmir's Fish Market](Week3_Assigment_Fish_Market.html) 
+
+
+###  Week 5
+
+[Netflix Assignment](netflix_assignment.html) 
